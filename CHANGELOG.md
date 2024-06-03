@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Jun 03 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@plsgivemeachane](https://github.com/plsgivemeachane))
+
+#### Authors: 1
+
+- Lee Min Waan ([@plsgivemeachane](https://github.com/plsgivemeachane))
+
+---
+
 # v0.0.1 (Mon Jun 03 2024)
 
 :tada: This release contains work from a new contributor! :tada:
